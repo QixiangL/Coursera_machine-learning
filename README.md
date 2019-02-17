@@ -1,18 +1,10 @@
 # Coursera_machine-learning course from Andrew Ng
 
-## Testing
-Run with `sbt -Dassignment=[assignment] clean test`, defaults to example
+## Slides .pdf files
 
-## Submit
+`slides from Coursea`
+Basically 10-week slides.
 
-`sbt -Dassignment=[assignment]`
+## Octave assignments .m codes
 
-Then
-
-`submit [username/email] [password]`
-
-
-#Completed 10/10 100%
-
-YES!
-https://www.coursera.org/account/accomplishments/certificate/EK8FHGVKFLG9
+`Octave .m code for the programming assignments`
