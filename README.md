@@ -2,9 +2,9 @@
 
 ## Slides .pdf files
 
-`slides from Coursea`
+slides from Coursea.
 Basically 10-week slides.
 
 ## Octave assignments .m codes
 
-`Octave .m code for the programming assignments`
+Octave `.m code` for the programming assignments.
