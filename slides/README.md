@@ -3,6 +3,6 @@
 # Week1
   - [x] Introduction
   - [x] Linear Regression with One Variable
-    - (1) Model and Cost Function
-    - (2) Parameter Learning
+    - Model and Cost Function
+    - Parameter Learning
 # Week2
