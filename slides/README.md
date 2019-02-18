@@ -11,7 +11,7 @@
     - Environment Setup Instructions
     - Multivariate Linear Regression
     - Computing Parameters Analytically
-  - [ ] Octave/Matlab Tutorial
+  - [x] Octave/Matlab Tutorial
     - Octave/Matlab Tutorial
 
 # Week3 (2/18 - 2/24)
