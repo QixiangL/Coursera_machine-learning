@@ -15,8 +15,15 @@
     - Octave/Matlab Tutorial
 
 # Week3 (2/18 - 2/24)
-  - [ ] ?
-  - [ ] ?
+  - [x] Logistic Regression
+    - Classification and Representation
+    - Logistic Regression Model
+    - Multiclass Classification
+  - [x] Regularization
+    - Solving the Problem of Overfitting
+
+# Week4 (2/25 - 3/3)
+  - [ ] ??
     - ?
+  - [ ] ??
     - ?
-  - [ ] ?
