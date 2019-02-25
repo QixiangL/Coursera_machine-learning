@@ -1,4 +1,5 @@
 ## Programming Task
 
 - [x] Week2 Linear Regression
-- [ ] Week? ?
+- [x] Week3 Logistic Regression
+- [ ] Week4 ???
