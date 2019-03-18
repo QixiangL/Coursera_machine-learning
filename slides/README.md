@@ -36,6 +36,7 @@
   - [x] Advice for Applying Machine Learning
     - Evaluating a Learning Algorithm
     - Bias vs. Variance
+    - quiz is hard 😖😖😖 need more practice and re-think 🌊🌊🌊
   - [x] Machine Learning System Design
     - Building a Spam Classifier
     - Handling Skewed Data
